@@ -18,6 +18,10 @@ private void ClassD() {
 	System.out.println("GIT");
 	
 }
+private void ClassE() {
+	System.out.println("GIT");
+	
+}
 	public static void main(String[] args) {
 		
 		GitSample gs = new GitSample();
@@ -25,6 +29,7 @@ private void ClassD() {
 		gs.ClassB();
 		gs.ClassC();
 		gs.ClassD();
+		gs.ClassE();
 		
 		
 		
